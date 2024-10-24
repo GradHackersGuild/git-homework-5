@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/4b1aa444-e3ed-414f-a196-96d6a25decea)
+
+
 Repository
 A repository (or repo) is a storage space for files, directories, historical records, commits, and heads. It can be local (on your computer) or remote (on a server like GitHub).
 
